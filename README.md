@@ -1,5 +1,3 @@
-
-
 # bfs
 this is the searching algorithm in python 
 def bfs(graph, start_node):
